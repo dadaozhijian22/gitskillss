@@ -1,2 +1,3 @@
 Creating a new branch is quick and simple
-git change
+git chang
+git change 3
